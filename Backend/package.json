@@ -5,7 +5,7 @@
   "description": "Inventory Management System Backend",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
